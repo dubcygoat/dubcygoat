@@ -5,7 +5,7 @@
   <li><b>Netflix-Clone App DevSecOps Deployment</b><ul><li><a href ="https://github.com/dubcygoat/DevSecOps-NetflixClone">Building a Secure CI/CD Pipeline</li></ul></li>
 </ul>
   <ul dir="auto">  
-    <li><b>EasyBuggy App Deployment(DevOps/DevSecOps)</b><ul><li><a href ="https://github.com/dubcygoat/devsecops-jenkins-k8s-tf-sast-sca-dast-sonarcloud-snyk-zap-e2e-repo">Deploying and Implementing a Secure CI/CD Pipeline Easybuggy App using AWS,Jenkins,EC2,EKR,Docker,Terraform,SNYK,Sonar,Kubernetes</li></ul></li>
+    <li><b>EasyBuggy App Deployment(DevOps/DevSecOps)</b><ul><li><a href ="https://github.com/dubcygoat/devsecops-jenkins-k8s-tf-sast-sca-dast-sonarcloud-snyk-zap-e2e-repo">Deploying and Implementing a Secure CI/CD Pipeline for Easybuggy App using AWS,Jenkins,EC2,EKR,Docker,Terraform,SNYK,Sonar,Kubernetes</li></ul></li>
 </ul>
 
 
