@@ -8,7 +8,7 @@
     <li><b>EasyBuggy App Deployment(DevOps/DevSecOps)</b><ul><li><a href ="https://github.com/dubcygoat/devsecops-jenkins-k8s-tf-sast-sca-dast-sonarcloud-snyk-zap-e2e-repo">Deploying and Implementing a Secure CI/CD Pipeline for Easybuggy App using AWS,Jenkins,EC2,EKR,Docker,Terraform,SNYK,Sonar,Kubernetes</li></ul></li>
 </ul>
   <ul dir="auto">  
-    <li><b>Building a DevSecOps pipeline with GITHUB-ACTION</b><ul><li><a href ="https://github.com/dubcygoat/devsecops-github-actions-all">Running a Secure Pipeline for A JAVA App using Github Action</li></ul></li>
+    <li><b>Building a DevSecOps pipeline with Github-Action</b><ul><li><a href ="https://github.com/dubcygoat/devsecops-github-actions-all">Running a Secure Pipeline for a Java App using Github Action</li></ul></li>
 </ul>
 
 
@@ -17,9 +17,6 @@
   <li><b>AI-Powered Phishing Detection System</b><ul><li><a href ="https://github.com/dubcygoat/A.I-Powered-Phishing-Detection-System">Combining Machine Learning and Natural Language Processing Techniques for Phishing Detection</li></ul></li>
 </ul>
 
-
-
-https://github.com/dubcygoat/devsecops-github-actions-all
 <!--
 **dubcygoat/dubcygoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
