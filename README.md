@@ -18,7 +18,7 @@
   <li><b>AI-Powered Phishing Detection System</b><ul><li><a href ="https://github.com/dubcygoat/A.I-Powered-Phishing-Detection-System">Combining Machine Learning and Natural Language Processing Techniques for Phishing Detection</li></ul></li>
 </ul>
 <ul dir="auto">
-  <li><b>File Integrity Monitor</b><ul><li><a href ="https://github.com/dubcygoat/File-Integrity-Monitor-FIM">Building a File Integrity Monitor Using PowerShel</li></ul></li>
+  <li><b>File Integrity Monitor</b><ul><li><a href ="https://github.com/dubcygoat/File-Integrity-Monitor-FIM">Building a File Integrity Monitor Using PowerShell</li></ul></li>
 </ul>
     
     
